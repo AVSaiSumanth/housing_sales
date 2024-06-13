@@ -1,6 +1,6 @@
+## Objective
+
 Using aggregated data, Produced forecasts for four different metrics for the next 12 months. Accurately calculated the national aggregates for the metrics—if using non-count metrics, I have calculated weighted averages.
-
-
 
 ## Data Dictionary
 
